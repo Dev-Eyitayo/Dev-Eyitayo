@@ -20,5 +20,5 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 I'm always open to discussions, collaborations, and learning opportunities! Feel free to reach out to me on these platforms:
 
-[![X](https://img.shields.io/badge/X-@dev_eyitayo-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_eyitayo)  
+[![](https://img.shields.io/badge/X-@dev_eyitayo-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_eyitayo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eyitayo%20Ezekiel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyitayo-ezekiel/)
