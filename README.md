@@ -16,6 +16,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - **Databases**: PostgreSQL, MongoDB, Firebase
 - **Cloud & Tools**: Docker, Firebase, AWS, Git, GitHub Actions
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyitayo-ezekiel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Eyitayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyitayo-ezekiel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🌍 Let's Connect
 
 I'm always open to discussions, collaborations, and learning opportunities! Feel free to reach out to me on these platforms:
