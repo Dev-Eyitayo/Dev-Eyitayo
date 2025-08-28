@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - **Backend**: Django, Django REST Framework, Node.js,
 - **Frontend**: React.js, React Native, Tailwind CSS, Next.js
 - **Databases**: PostgreSQL, MongoDB, Firebase
-- **Cloud & Tools**: Docker, Firebase, AWS, Git, GitHub Actions
+- **Cloud & Tools**: Docker, Firebase, AWS, Git
 
 
 
