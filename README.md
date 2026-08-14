@@ -1,6 +1,6 @@
 # Eyitayo Ezekiel
 
-Backend-leaning software engineer. Python and JavaScript, across frameworks — I pick the stack based on the problem, not the other way around.
+Backend software engineer. Python and JavaScript, across frameworks — I pick the stack based on the problem, not the other way around.
 
 **Portfolio:** [eyitayo.online](https://eyitayo.online)
 
