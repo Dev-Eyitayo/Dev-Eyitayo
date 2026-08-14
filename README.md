@@ -1,26 +1,21 @@
-# 👋 Hello, I'm Eyitayo Ezekiel! 👨‍💻
+# Eyitayo Ezekiel
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong focus on **Backend Development** and some **frontend expertise**. My journey revolves around building reliable and scalable systems while solving real-world problems with the power of technology. 🚀
+Backend-leaning software engineer. Python and JavaScript, across frameworks — I pick the stack based on the problem, not the other way around.
 
-### About Me
+**Portfolio:** [eyitayo.online](https://eyitayo.online)
 
-- 🎓 I'm currently studying **Software Engineering** at **Lead City University**.
-- 💻 I specialize in **Backend Development** and work primarily with **Python**, **Javascript**, and **database management systems**.
-- 🔍 I'm deeply passionate about creating applications that **optimize workflows** and **enhance user experiences**.
-- 🌱 I am constantly exploring new technologies and approaches to stay at the forefront of the ever-evolving world of software development.
+---
 
-### 🛠️ Technologies I Work With
+### Background
 
-- **Backend**: Django, Django REST Framework, Node.js,
-- **Frontend**: React.js, React Native, Tailwind CSS, Next.js
-- **Databases**: PostgreSQL, MongoDB, Firebase
-- **Cloud & Tools**: Docker, Firebase, AWS, Git
+Software Engineering graduate, Lead City University, Ibadan. Thesis: AI-driven semantic search with explainable ranking in real estate marketplaces — Sentence-BERT embeddings, pgvector, RankSHAP for explainability, evaluated on NDCG/MAP/MRR.
 
+### Stack
 
+**Backend** — Python (Django REST Framework, FastAPI), Node.js, PostgreSQL, Redis
+**Frontend** — React, Next.js, TypeScript, Tailwind
+**Other** — Docker, Git, AWS, and whatever the project actually calls for
 
-### 🌍 Let's Connect
+### Elsewhere
 
-I'm always open to discussions, collaborations, and learning opportunities! Feel free to reach out to me on these platforms:
-
-[![](https://img.shields.io/badge/X-@dev_eyitayo-1da1f2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_eyitayo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eyitayo%20Ezekiel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyitayo-ezekiel/)
+[Portfolio](https://eyitayo.online) · [LinkedIn](https://www.linkedin.com/in/eyitayo-ezekiel/) · [X](https://x.com/dev_eyitayo)
